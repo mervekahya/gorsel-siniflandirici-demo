@@ -57,8 +57,9 @@ Model yaklaşık olarak:
 Not: Daha yüksek doğruluk için daha büyük model mimarileri ve daha uzun eğitim gerekebilir.
 
 ## 📷 Örnek Ekran Görüntüsü
+![Uploading Ekran Resmi 2025-05-26 12.48.58.png…]()
+![Uploading Ekran Resmi 2025-05-26 12.49.05.png…]()
 
-> `app.py` çalıştırıldığında ortaya çıkan arayüzü buraya bir ekran görüntüsü olarak ekleyebilirsiniz.
 
 ## 📌 Gereksinimler
 
