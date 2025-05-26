@@ -1,4 +1,5 @@
 # Görsel Sınıflandırıcı Demo (Animals-10)
+DATASETİ GİTHUBA YÜKLEMEDE SIKINTI YAŞADIM KODUM SIKINTISIZ ÇALIŞIYOR EĞİTİMİ TAMAMLANDI
 
 Bu proje, PyTorch kullanılarak geliştirilmiş basit bir **görüntü sınıflandırma uygulamasıdır**. Uygulama, [Animals-10 dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10) kullanılarak eğitilen bir derin öğrenme modeliyle çalışır. Arayüz olarak Streamlit tercih edilmiştir.
 
